@@ -1,0 +1,1 @@
+INSERT INTO universidad.tb_curso (codigo_curso, codigo_asignatura, cedula_docente) VALUES ('12', '12', '100')

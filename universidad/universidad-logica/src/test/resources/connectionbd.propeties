@@ -1,0 +1,4 @@
+jdbc.url=jdbc:mysql://localhost:3306/universidad
+jdbc.user=root
+jdbc.pass=admin
+jdbc.driverclass=com.mysql.jdbc.Driver
